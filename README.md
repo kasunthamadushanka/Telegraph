@@ -7,7 +7,7 @@
 
 #### Requirements
 
-[BOT FATHER✅](https://t.me/botfather) and create your bot and get Token from there.
+Start [@botfather](https://t.me/botfather) and create your bot and get Token from there.
 
 #### One Click deploy
 
