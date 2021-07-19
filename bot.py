@@ -21,7 +21,7 @@ logger.setLevel(logging.INFO)
 
 
 def start_cmd(update, context):
-    update.message.reply_text(f"Hello {update.message.from_user.first_name}.\n\nI can upload photos from telegram to telegra.ph📂. \n\n **POWERED BY :-@epusthakalaya_bots** ")
+    update.message.reply_text(f"Hello {update.message.from_user.first_name}.\n\nI can upload photos from telegram to telegra.ph📂. \n\n <b>POWERED BY :-@epusthakalaya_bots </b>")
 
 
 def upload_cmd(update, context):
